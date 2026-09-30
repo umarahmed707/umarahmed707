@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- 3D Header Graphic -->
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/profile-header?name=Umar%20Ahmed&title=Full-Stack%20%26%20AI%20Web%20Developer&theme=tokyonight" width="100%" alt="Header" />
+  <!-- 3D Modern Header Graphic -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Umar%20Ahmed&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%26%20AI%20Web%20Developer&descSize=20" width="100%" alt="Header" />
 
-  <br /><br />
+  <br />
 
   <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Umar+Ahmed;Full-Stack+%26+AI+Web+Developer;React.js+%E2%80%A2+Next.js+%E2%80%A2+Express.js" alt="Typing Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Umar+Ahmed;Full-Stack+%26+AI+Web+Developer;React.js+%E2%80%A2+Next.js+%E2%80%A2+Express.js" alt="Typing Title" />
   </a>
 
   <br /><br />
 
-  <!-- 3D Style Social Links -->
+  <!-- 3D Style Social Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/umarahmedansari" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -80,7 +80,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics Dashboard
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umarahmed707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Umar's GitHub Stats" />
@@ -107,8 +107,9 @@
 
 <br />
 
+<!-- 3D Contribution Calendar -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarahmed707&theme=react-dark&radius=10" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarahmed707&theme=tokyonight" width="100%" alt="GitHub Profile Summary 3D" />
 </div>
 
 <br />
@@ -117,5 +118,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
-  <sub>Designed with ❤️ by <b>Umar Ahmed</b></sub>
+  <sub>Designed with ❤️️ by <b>Umar Ahmed</b></sub>
 </div>
