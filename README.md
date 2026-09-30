@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Fixed 3D Modern Header (Cleaned XML URL) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Umar%20Ahmed&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%26%20AI%20Web%20Developer&descSize=20" width="100%" alt="Header" />
+  <!-- Clean Header Graphic -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Umar%20Ahmed&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
 
   <br />
 
@@ -40,7 +40,7 @@
 - 👯 **Open for Collaboration:** [Raha_Web](https://github.com/umarahmed707/Raha_web)
 - 🌱 **Deepening Expertise:** Node.js, Express.js, PostgreSQL, MongoDB & Cloud Architecture.
 - 💬 **Ask Me About:** React, Next.js, AI Integration, and Full-Stack Web Development.
-- 👨‍‍💻 **Live Portfolio:** [codewithumar.vercel.app](https://codewithumar.vercel.app)
+- 👨‍💻 **Live Portfolio:** [codewithumar.vercel.app](https://codewithumar.vercel.app)
 - ⚡ **Philosophy:** Turning complex ideas into sleek, high-performance, AI-powered web experiences.
 
 ---
@@ -115,8 +115,16 @@
 <br />
 
 <!-- Bottom Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.This error occurs because XML (and RSS/SVG/XHTML) treats the ampersand character (`&`) as the start of an entity reference (like `&amp;` or `&lt;`). 
 
-<div align="center">
-  <sub>Designed with ❤ by <b>Umar Ahmed</b></sub>
-</div>
+When an unescaped `&` appears in your XML code—such as in a URL, text, or attribute value—the parser expects a name following it immediately (e.g., `&name;`). When it finds a space, a number, or another standard character instead, it throws `xmlParseEntityRef: no name`.
+
+### How to Fix It
+
+Look at **line 47** of your XML file around **column 126** and check for these common scenarios:
+
+#### 1. Unescaped Ampersands in URLs or Text (Most Common)
+* **Incorrect:**
+  ```xml
+  <link>[https://example.com/page?item=1&category=2](https://example.com/page?item=1&category=2)</link>
+  <title>Rock & Roll</title>
