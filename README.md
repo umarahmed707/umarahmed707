@@ -1,34 +1,244 @@
 <h1 align="center">Hi 👋, I'm Umar Ahmed</h1>
-<h3 align="center">Frontend Developer • React.js • Next.js • AI-Powered Web Experiences</h3>
 
-- 🔭 I’m currently working on [AI_CV_Job_Matcher](https://github.com/umarahmed707/ai-cv-job-matcher)
-
-- 🌱 I’m currently learning **Express.js , Node.js , PostgreSQL, MongoDB**
-
-- 👯 I’m looking to collaborate on [Raha_Web](https://github.com/umarahmed707/Raha_web)
-
-- 🤝 I’m looking for help with [AI_CV_Job_Matcher](https://github.com/umarahmed707/ai-cv-job-matcher)
-
-- 👨‍💻 All of my projects are available at [https://codewithumar.vercel.app](https://codewithumar.vercel.app)
-
-- 💬 Ask me about **Full_Stack**
-
-- 📫 How to reach me **umarahmedansari0@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/AA/Downloads/Umar_Ahmed_Resume.pdf](file:///C:/Users/AA/Downloads/Umar_Ahmed_Resume.pdf)
-
-- ⚡ Fun fact **Fun fact: I love turning ideas into modern, interactive and AI-powered web experiences. 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umarahmedansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umarahmedansari" height="30" width="40" /></a>
+<p align="center">
+  <strong>Frontend Developer • React.js • Next.js • AI-Powered Web Experiences</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/umarahmed707">
+    <img src="https://komarev.com/ghpvc/?username=umarahmed707&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/umarahmed707?tab=followers">
+    <img src="https://img.shields.io/github/followers/umarahmed707?label=Followers&style=flat" alt="Followers" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umarahmed707&show_icons=true&locale=en&layout=compact" alt="umarahmed707" /></p>
+<p align="center">
+  <a href="https://codewithumar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/umarahmedansari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:umarahmedansari0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarahmed707&show_icons=true&locale=en" alt="umarahmed707" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarahmed707&" alt="umarahmed707" /></p>
+## 🚀 About Me
+
+I'm a frontend-focused developer who enjoys turning ideas into modern, responsive, and interactive web experiences.
+
+* 🔭 Currently building **AI-powered web applications**
+* 🌱 Learning **Express.js, Node.js, PostgreSQL & AI integration**
+* ⚡ Interested in **React, Next.js, modern UI, animation & SaaS products**
+* 🧠 Exploring **Generative AI and AI-powered developer tools**
+* 🤝 Open to collaborating on interesting web projects
+* 🎯 Long-term focus: **Full-Stack Development + AI-Powered SaaS**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,gsap,nodejs,express,python,fastapi,postgres,firebase,git,github,figma,vercel&perline=9" alt="Tech Stack" />
+  </a>
+</p>
+
+### AI / Generative AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" alt="Groq" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
+</p>
+
+---
+
+## ✨ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🤖 AI CV Job Matcher</h3>
+
+<p align="center">
+AI-powered CV analysis and job matching platform that analyzes candidate profiles and recommends relevant opportunities.
+</p>
+
+<p align="center">
+<strong>React • FastAPI • Python • Groq • Tailwind CSS</strong>
+</p>
+
+<p align="center">
+<a href="https://frontend-ecru-zeta-47.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/umarahmed707/AI_CV_Job_Matcher">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💰 Raha Web</h3>
+
+<p align="center">
+A modern responsive financial web interface focused on clean UI, reusable components and responsive design.
+</p>
+
+<p align="center">
+<strong>React • Tailwind CSS • Responsive UI</strong>
+</p>
+
+<p align="center">
+<a href="https://github.com/umarahmed707/Raha_Web">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://codewithumar.vercel.app/">
+    <img src="https://img.shields.io/badge/More%20Projects-View%20Portfolio-7C3AED?style=for-the-badge" alt="More Projects" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=umarahmed707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Umar's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarahmed707&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+> GitHub stats and top-language cards are generated dynamically. Top Languages reflects code distribution across repositories; it should not be interpreted as a measure of skill level.
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=umarahmed707&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/umarahmed707">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=umarahmed707&theme=github-compact&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+      width="95%"
+    />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=umarahmed707&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 📌 GitHub Highlights
+
+<p align="center">
+
+<a href="https://github.com/umarahmed707">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=umarahmed707&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true"
+    alt="GitHub Analytics"
+  />
+</a>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Frontend Development
+        ↓
+React.js + Next.js
+        ↓
+Full-Stack Development
+        ↓
+AI Integration
+        ↓
+AI-Powered SaaS
+```
+
+---
+
+## 💡 What I Love Building
+
+* ⚡ Modern React interfaces
+* 🎨 Responsive and interactive UI
+* 🧩 Reusable component systems
+* 🚀 Full-stack web applications
+* 🤖 AI-powered developer tools
+* 📊 SaaS dashboards and products
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AI%20Integration-7C3AED?style=for-the-badge" alt="AI Integration" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://codewithumar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/umarahmedansari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:umarahmedansari0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Ship. Repeat. 🚀</i>
+</p>
