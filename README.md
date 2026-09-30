@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Clean Header Graphic -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Umar%20Ahmed&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
+  <!-- Modern 3D Cyberpunk Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,24,30,12&height=220&section=header&text=Umar%20Ahmed&fontSize=52&animation=twinkle&fontColor=38BDF8&desc=Full-Stack%20%26%20AI%20Web%20Developer&descSize=20&descAlignY=68" width="100%" alt="3D Modern Header" />
 
-  <br />
+  <br /><br />
 
   <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
