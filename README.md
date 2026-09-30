@@ -1,40 +1,36 @@
-# Hi there, I'm [Aapka Naam] 👋
+<div align="center">
 
-### 👨‍💻 Full-Stack Developer / Software Engineer
+  <!-- Dynamic Typing SVG Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Umar+Ahmed;Full-Stack+%26+AI+Web+Developer;Building+Next-Gen+Web+Experiences;React.js+%E2%80%A2+Next.js+%E2%80%A2+Express.js+%E2%80%A2+Tailwind" alt="Typing SVG Header" />
+  </a>
 
-A passionate developer from Pakistan, dedicated to building clean, accessible, and high-performance web applications.
+  <br /><br />
 
----
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/umarahmedansari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codewithumar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:umarahmedansari0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-### 🚀 About Me
-- 🔭 Currently working on: **[Aapka Project]**
-- 🌱 Learning: **[Jo seekh rahe hain, e.g., Next.js, Docker]**
-- 💬 Ask me about: **JavaScript, React, Node.js**
-- 📫 Reach me at: **[Aapka Email]**
+</div>
 
----
+<br />
 
-### 🛠️ Tech Stack
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-**Languages & Frameworks:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br />
 
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### 🚀 Developer Overview
 
----
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radial)
-
----
-
-### 🔗 Connect With Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR-LINKEDIN)
+```yaml
+Name: Umar Ahmed
+Role: Full-Stack & AI Web Developer
+Focus Areas: AI-Integrated Web Apps, Cloud Architectures, Custom Client Solutions
+Philosophy: "Turning complex ideas into sleek, high-performance, AI-powered web experiences."
